@@ -14,6 +14,8 @@ Umpires and Match Referees: Particulars of the officials responsible for oversee
 Toss Details: Revelations about the toss winner's decisions, which can significantly influence the game's trajectory.
 Venue Information: Location specifics, including stadium name, city, and country.
 
+https://www.kaggle.com/code/programmarself/all-t20-internationals-eda-from-2005-2024/notebook?scriptVersionId=164889156
+
 ![image](https://github.com/programmarself/All-T20-Internationals-EDA-FROM-2005---2024-/assets/134633289/71a819dc-6ece-4e74-847c-5d8b1bc0a4de)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?style=for-the-badge&logo=github)](https://github.com/programmarself) 
